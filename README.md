@@ -1,7 +1,7 @@
 # 100 Days of Code – Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Progress](https://img.shields.io/badge/Progress-Day%205%2F100-green)
+![Progress](https://img.shields.io/badge/Progress-Day%206%2F100-green)
 
 [![Angela Yu Python Bootcamp Course Banner](assets/images/angela-yu-python-bootcamp.jpg)](https://www.udemy.com/course/100-days-of-code)
 
@@ -64,7 +64,8 @@ Each day contains its own folder with source code, notes, and project files.
 - [x] Day 2
 - [x] Day 3
 - [x] Day 4
-- [ ] Day 5
+- [x] Day 5
+- [ ] Day 6
 - [ ] ...
 - [ ] Day 100
 
